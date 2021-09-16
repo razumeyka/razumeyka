@@ -1,5 +1,12 @@
 # Position: Frontend developer
 
+* Location: Lviv, Ukraine
+
+## Tech:
+
+
+## Contacts:
+
 <!--
 **razumeyka/razumeyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
