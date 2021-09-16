@@ -16,6 +16,9 @@
 
 ## Contacts:
 
+* anastasiya.razumeyko@gmail.com 
+* https://www.linkedin.com/in/anastasiya-razumeyko/
+
 <!--
 **razumeyka/razumeyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
