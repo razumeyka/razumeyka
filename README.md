@@ -4,6 +4,15 @@
 
 ## Tech:
 
+*	HTML5
+*	CSS3 with LESS/SCSS/SASS 
+*	BEM methodology
+*	JavaScript (native & Jquery) 
+*	React (beginner)
+*	Gulp / Webpack
+*	Git, Github, Bitbucket
+*	Figma, Avocode, Adobe Photoshop
+*	English (Intermediate), Ukrainian(Intermediate), Russian(Fluent)
 
 ## Contacts:
 
