@@ -14,7 +14,7 @@
 *	Gulp / Webpack
 *	Git, Github, Bitbucket
 *	Figma, Avocode, Adobe Photoshop
-*	English (Intermediate), Ukrainian(Intermediate), Russian(Fluent)
+*	English (Intermediate), Ukrainian(Intermediate), Belarussian(Intermediate), Russian(Fluent)
 
 ## Contacts:
 
