@@ -10,6 +10,8 @@
 *	JavaScript
 *	React
 *	React Native
+*	Next.js
+*	Node.js
 *	Jquery
 *	Gulp / Webpack
 *	Git, Github, Bitbucket
